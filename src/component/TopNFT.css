@@ -1,0 +1,48 @@
+.card-color {
+    background: rgb(182,198,74);
+    background: linear-gradient(135deg, rgba(182,198,74,1) 0%, rgba(190,71,191,1) 36%, rgba(68,21,196,1) 68%, rgba(253,45,230,1) 100%); 
+}
+
+.line {
+    color: blue;
+    letter-spacing: -5px;
+}
+
+.nft-name {
+    font-weight: bold;
+    color: rgb(182,198,74);
+    color: linear-gradient(135deg, rgba(182,198,74,1) 0%, rgba(190,71,191,1) 10%, rgba(68,21,196,1) 20%, rgba(253,45,230,1) 30%); 
+}
+
+.nft-subject {
+    background-color: #972d98;
+}
+
+.font-bid {
+    color: white;
+}
+
+.eth {
+    color: white;
+    font-size: 50px;
+}
+
+.dollar {
+    color: white;
+    margin-left: 20px;
+}
+
+.auct-label {
+    color: white;
+}
+
+.bid-button {
+    background: rgb(182,198,74);
+    background: linear-gradient(135deg, rgba(182,198,74,1) 0%, rgba(190,71,191,1) 36%, rgba(68,21,196,1) 68%, rgba(253,45,230,1) 100%); 
+    width: 160px;
+}
+
+.top-title {
+    font-weight: bold;
+    color: white;
+}

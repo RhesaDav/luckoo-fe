@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo:wght@500&display=swap");
+
+.myNavbar {
+  position: absolute;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  width: 1500px;
+}
+
+.nav-title {
+  color: darkgray;
+  font-family: "Exo", sans-serif;
+  font-weight: bold;
+  background: #982C9C;
+background: -webkit-linear-gradient(to top, #982C9C 32%, #CA80CF 57%);
+background: -moz-linear-gradient(to top, #982C9C 32%, #CA80CF 57%);
+background: linear-gradient(to top, #982C9C 32%, #CA80CF 57%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.search-bar {
+  width: 25%;
+
+  border: 1px solid #000;
+  border-radius: 30px;
+  font-size: 16px;
+  background-color: grey;
+  background-image: url("https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/search-24.png");
+
+  background-position: 10px 7px;
+  background-repeat: no-repeat;
+  padding: 8px 20px 8px 40px;
+  -webkit-transition: width 0.8s ease-in-out;
+  transition: width 0.8s ease-in-out;
+  outline: none;
+  opacity: 0.9;
+}
+
+.lko-currency {
+  border-color: purple;
+  border-style: solid;
+  border-width: 3px;
+}
+
+.button-nav {
+  cursor: pointer;
+  background: #121FCF;
+background: -webkit-linear-gradient(to right, #121FCF 20%, #A600CF 63%);
+background: -moz-linear-gradient(to right, #121FCF 20%, #A600CF 63%);
+background: linear-gradient(to right, #121FCF 20%, #A600CF 63%);
+
+}
