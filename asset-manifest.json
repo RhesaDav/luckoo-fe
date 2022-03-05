@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/luckoo-fe/static/css/main.3e249401.css",
+    "main.js": "/luckoo-fe/static/js/main.159d83ca.js",
+    "static/js/787.6b2c42fb.chunk.js": "/luckoo-fe/static/js/787.6b2c42fb.chunk.js",
+    "static/media/background.jpg": "/luckoo-fe/static/media/background.e72440415d8c6ad17c2a.jpg",
+    "index.html": "/luckoo-fe/index.html",
+    "main.3e249401.css.map": "/luckoo-fe/static/css/main.3e249401.css.map",
+    "main.159d83ca.js.map": "/luckoo-fe/static/js/main.159d83ca.js.map",
+    "787.6b2c42fb.chunk.js.map": "/luckoo-fe/static/js/787.6b2c42fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e249401.css",
+    "static/js/main.159d83ca.js"
+  ]
+}
